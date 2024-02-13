@@ -1,0 +1,12 @@
+=================== IR ===================
+(procBegin, main)
+(addressOf, r1, i)
+(addressOf, r2, j)
+(loadSignedHalfWord, r3, r2)
+(castSignedHalfWordToWord, r4, r3)
+(storeWord, r1, r4)
+(constInt, r5, 0)
+(returnWord, r5)
+(goto, _GeneratedLabel_1)
+(label, _GeneratedLabel_1)
+(procEnd, main)

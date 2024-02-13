@@ -1,0 +1,15 @@
+/*
+
+random
+
+*
+
+^^^^
+
+'stirng'
+
+....
+
+// nested comment
+
+*/

@@ -1,0 +1,13 @@
+=================== IR ===================
+(procBegin, main)
+(addressOf, r1, i)
+(constInt, r2, 5)
+(storeWord, r1, r2)
+(addressOf, r3, p)
+(addressOf, r4, i)
+(storeWord, r3, r4)
+(constInt, r5, 0)
+(returnWord, r5)
+(goto, _GeneratedLabel_1)
+(label, _GeneratedLabel_1)
+(procEnd, main)

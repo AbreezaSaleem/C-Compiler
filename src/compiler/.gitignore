@@ -1,0 +1,14 @@
+*.o
+*.a
+*.exe
+*.s
+*.output
+*.yy.[ch]
+*.tab.[ch]
+.depend
+*~
+compiler
+
+test.c
+
+cases_test.c

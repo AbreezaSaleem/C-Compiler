@@ -1,0 +1,143 @@
+		       Last revised 1-Sep-2023
+
+			  Questionnaire for
+
+		 Harvard Extension School CSCI E-95:
+		  Compiler Design and Implementation
+
+			      Fall 2023
+
+
+Name:
+- Abreeza Saleem
+
+Home/Cellular phone number:
+- +18577012612
+
+E-mail:
+- abreeza.saleem@hotmail.com
+
+Work phone number:
+- +18577012612
+
+Where are you located?  What is your time zone?
+- Quincy, Massachusetts
+
+What pronouns would you like us to use when referring to you?
+- She/Her
+
+Occupation (If an undergraduate student, please specify your major and
+year and at which school; If a graduate student, please specify your
+department, field, and year and at which school).
+- Currently not working due to Visa restrictions but I have 3+ years of experience working as a Fullstack Engineer.
+
+Have you taken:
+  CSCI E-10a (Formerly CSCI E-50a) (Introduction to Computer Science
+      Using Java I),
+  Answer: No.
+  CSCI E-10b (Formerly CSCI E-50b) (Introduction to Computer Science
+      Using Java II),
+  Answer: No.
+  CSCI E-22 (Formerly CSCI E-119) (Data Structures),
+  Answer: Yes || CS-202 (Data Structures)
+  CSCI E-26 (Introduction to C, Unix/Linux Programming, and Web
+      Interfaces),
+  Answer: No.
+  CSCI E-28 (Formerly CSCI E-215) (Unix/Linux Systems Programming),
+  Answer: No.
+  CSCI E-38 (Introduction to C++ for Programmers),
+  Answer: Yes || CS-200 (Introduction to Programming).
+  CSCI E-50 (Formerly CSCI E-52) (Intensive Introduction to Computer
+      Science),
+  Answer: Studied a similar course || CS-4612 (Program Analysis).
+  CSCI E-53 (Effective C++ for Programmers),
+  Answer: No.
+  CSCI E-61 (Systems Programming and Machine Organization),
+  Answer: No.
+  CSCI E-92 (Principles of Operating Systems),
+  Answer: Yes || CS-370 (Operating Systems).
+  CSCI E-93 (Computer Architecture),
+  Answer: Studied a similar course || CS-225 (Fundamentals of Computer Systems)
+  ENSC E-123 or CSCI E-123 (Laboratory Electronics: Digital Circuit
+      Design),
+  Answer: Yes || CS-220 (Digital Logic Circuits).
+  PHYS E-123a (Laboratory Electronics: Analog Circuit Design),
+  Answer: Studied a similar course || EE-100 (Engineering Laboratory).
+  CSCI E-124 (Data Structures and Algorithms),
+  Answer: Yes || CS-310 (Algorithms)
+  CSCI E-152 (Programming Languages),
+    Answer: Studied a similar course || CS-300 (Advanced Programming).
+  or equivalents?  Please specify which.
+  Answer: Also took CS-315 (Theory of Automata).
+
+
+If you have not taken CSCI E-22 (Formerly CSCI E-119) (Data
+Structures) or CSCI E-124 (Data Structures and Algorithms), how do you
+meet the prerequisite?
+- N/A
+
+More specifically, do you have experience implementing many different
+data structures from scratch?  If yes, please describe.  If not, how
+do you meet the prerequisite?
+- Yes. Implemented all common data structures from scratch in CS-202 including BST, LinkedList etc
+
+Are you currently working toward a degree in a degree program?  If so,
+at what institution, which program, and what degree?
+- N/A
+
+Concurrently with taking this class, are you working full time?  Part time?
+- N/A
+
+Are you taking any other classes concurrently with this one?
+- No
+
+Do you have experience using Posix/Linux/Unix?  Are you familiar with
+Posix/Linux/Unix shell commands?  Do you have experience programming
+using Posix/Linux/Unix system calls?  If yes, please describe.
+- Yes. I've worked with Linux commands during my time at university and at my jobs.
+
+Do you have experience using Windows?  If so, as a user or as a
+programmer?
+- Yes, as a programmer.
+
+What additional appropriate course or work experience do you have?
+- I studied the concepts we discuss in class in the following courses
+  - CS-4612 (Program Analysis)
+  - CS-315 (Theory of Automata)
+  - CS-225 (Fundamentals of Computer Systems)
+
+What is your math background?
+- Took all the required Math courses in my Bachelor's.
+
+What computer languages do you know (please include assembler and
+high-level languages)?  Have you programmed in the C Programming
+Language, C++, or Java?
+- I am pretty comfortable with the following:
+  - C++
+  - Javascript
+  - Python
+The following I have worked with but only for short periods of time
+  - Java
+  - Haskell
+  - Go
+
+What operating systems have you used (e.g. Windows, Mac OS, Linux,
+iOS, Android, etc.)?  Have you written programs that interact with the
+operating systems?  And, if so, with which operating systems?
+- Windows, MacOS, Linux
+
+What computers (including microcontrollers) (e.g. x86, MIPS, ARM,
+PowerPC, M1, M2, RISC-V, SPARC, VAX, Microchip PIC, Intel 8051,
+Renesas, Motorola 6800 or 68000) have you programmed in assembly
+language (i.e., which machine code instruction sets)?
+- None
+
+In general, do you intend to attend the section meetings and classes
+live or watch the recorded sessions?
+- I attend them live
+
+What is your motivation for taking this course?
+- I've always had interest in how languages function at a low-level and this course outline really appealed to me.
+
+Do you have any comments or questions for the course staff?
+- No

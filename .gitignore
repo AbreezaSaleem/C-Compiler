@@ -1,0 +1,17 @@
+*.exe
+*.o
+*.sw?
+.DS_Store
+.idea
+tmp/
+*.out
+
+abs579@cscie95.dce.harvard.edu/
+
+sample.c
+
+example-code/
+
+src/sample-compiler
+
+settings.json
